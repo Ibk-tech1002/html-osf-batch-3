@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1>My story</h1>
+<img src="my picture"ibk.jpg>
+<p>I writing about my self and some other things about me<br>in this content i be describing ing the kind of person i am,and some crucial things about my self.</p>
+
+
+
+
+
+
+<body>
+    <href="Mywork">clickme</a>
+
+   
+   </ul>
+
+    <li>level</li>
+    <li>department</li>
+    <li>course</li>
+
+    <ul>
+        <ol>
+            <li>100</li>
+            <li>200</li>
+            <li>300</li>
+            <li>400</li>
+        </ol>
+        <ul>
+            <ol>
+             <li>science</li>
+             <li>education</li>
+             <li>theatre_art</li>
+
+             <ul>
+                <ol>
+                    <li>GNS</li>
+                    <li>history</li>
+                    <li>math</li>
+
+    </table>
+    <tr>
+        <th>Name</th>
+        <th>regions</th>
+        <th>location</th>
+
+        <thead>Numbers of regions in ijebuode</thead>
+        <td>Redeem christain fellowship</td>
+        <td>50</td>
+        <td>ijebuode</td>
+
+        <form action="method">
+
+        <label form="fname">firstname</label>
+        <input type="text" id="email" name="email">
+
+        <label form="email"validemail></label>
+        <label type="email"name="email"id="email".></label>
+
+    
+              
+            
+
+
+    
+</body>
+</html>
+    

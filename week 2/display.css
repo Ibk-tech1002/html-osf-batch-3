@@ -1,0 +1,26 @@
+.main-content1{
+    display: flex;
+}
+
+
+.main-content2{
+    display:flex ;   
+}
+
+
+.main-content1 > .contl, .cont2, .cont3{
+    background-color:blueviolet ;
+    color:whitesmoke ;
+    margin:0px 0px 2px 3px ;
+    padding:4px 4px 4px 4px ;
+}
+
+.main-content2 > .cont4, .cont5, .cont6{
+    background-color:rgb(5, 1, 8) ;
+    color:whitesmoke ;
+    margin:0px 0px 2px 3px ;
+    padding:4px 4px 4px; 
+}
+
+ 
+
