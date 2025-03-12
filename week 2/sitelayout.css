@@ -1,0 +1,42 @@
+.main-content{
+    background-color:skyblue ;
+    height:400px ;
+}
+.side1{
+    background-color:blueviolet ;
+    color: blue;
+    width:200px ;
+    height:400px ;
+    float:left ;
+    margin:10px 10px 0px 10px ;
+    padding:50px 10px 0px 150px ;
+}
+
+.side2{
+background-color:rgb(18, 11, 24) ;
+    color: blue;
+    width:200px ;
+    height:400px ;
+    float:left ;
+    margin: 10px 10px 0px 10px;
+    padding:50px 10px 0px 150px ;
+
+}
+   
+.side3{
+    background-color:rgb(226, 43, 61) ;
+    color:blue ;
+    width:200px;
+    height:400px ;
+    float:left ;
+    margin:10px 10px 0px 10px ;
+    padding:50px 10px 0px 150px ;
+}
+
+.btn1{
+    background-color:brown ;
+}
+h1{
+    background-color:aliceblue ;
+    width:80px ;
+}
