@@ -1,0 +1,35 @@
+
+.Firstcolumn,
+.secondcolumn,
+.Thirdcolumn{
+background-color: grey;
+width:28% ;
+/* height: 50%; */
+height: 300px;
+margin: 0 10px;
+padding:20px;
+padding-top: 50px;
+float: left;
+text-align: center;
+}
+
+.secondcolumn:hover{
+    transform: scale(0.8);
+}
+
+/* .secondcolumn{
+    background-color: grey;
+    width:15% ;
+height:200px ;
+padding:50px 10px 0px 150px ;
+margin:10px 10px 0px 10px  ;
+float: left;
+}
+.Thirdcolumn{
+    background-color: grey;
+    width:15% ;
+    height:200px ;
+    margin:10px 10px 0px 10px  ;
+    padding:50px 10px 0px 150px ;
+    float: left;
+} */
